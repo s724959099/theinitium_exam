@@ -18,7 +18,7 @@ This exam project aims to provide the following features:
 - Clone the repository
 
 ```shell
-git clone https://github.com/your-username/theinitium_exam.git
+git clone https://github.com/s724959099/theinitium_exam.git
 cd theinitium_exam
 ```
 
